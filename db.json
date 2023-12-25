@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "user": "Rüveyda",
+      "title": "Redux ",
+      "text": "State management",
+      "id": "9f65d614-de0e-4775-b35e-1ff8b02f0484"
+    },
+    {
+      "user": "Rüveyda",
+      "title": "OOP ",
+      "text": "Nesne Yönelimli Programlama nedir?",
+      "id": "d62fa349-04ca-4710-89ef-19420464287b"
+    },
+    {
+      "user": "Rüveyda",
+      "title": "Logic Gates",
+      "text": "Temel logic gates nelerdir?",
+      "id": "b6238572-b957-4f71-abdc-b94ca0e7ed0a"
+    }
+  ]
+}
