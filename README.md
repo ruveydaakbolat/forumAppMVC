@@ -8,6 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ### `Screen`
-https://github.com/ruveydaakbolat/forumAppMVC/assets/54941922/57ec4f30-43c2-44a8-80ba-c4c3a60fe20f
-
+![forum app mvc](https://github.com/ruveydaakbolat/forumAppMVC/assets/54941922/6b1e8b04-f6b9-4e47-af58-ebd6821d8b3a)
 
